@@ -10,14 +10,13 @@ Ce que j’ai fait :
 -modélisaion high poly des 5 espèces hermaphrodites 
 -retopology low poly de l’arbre 
 -retopology low poly des 5 fleurs
--retopology kow poly du lombric, de l'huitre plate et de l'escargot 
+-retopology low poly des 5 espèces hermaphrodites
 -test de différents shaders à appliquer sur les fleurs/espèces 
 -shader huitre provisoire 
 -test de capacitive sensors peu concluant 
 
 Ce qu’il me reste à faire : 
 -sélection du palette 
--retopology low poly de la cochenille et du poisson clown
 -UV + Baking de l'arbre
 -UV + Baking des 5 fleurs
 -UV + Baking des 5 espèces hermaphrodites
