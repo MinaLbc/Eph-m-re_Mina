@@ -12,6 +12,7 @@ Ce que j’ai fait :
 -retopology low poly des 5 fleurs
 -retopology low poly des 5 espèces hermaphrodites
 -UV + Baking des 5 fleurs
+-UV + Baking des 5 espèces hermaphrodites
 -sélection du palette
 -test de différents shaders à appliquer sur les fleurs/espèces 
 -shader huitre provisoire 
@@ -19,7 +20,6 @@ Ce que j’ai fait :
 
 Ce qu’il me reste à faire :
 -UV + Baking de l'arbre
--UV + Baking des 5 espèces hermaphrodites
 -animation du poisson clown 
 -composition finale unity 
 -code unity (apparition brume, changement shader, changement composition) 
