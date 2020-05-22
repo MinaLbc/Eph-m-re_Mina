@@ -11,6 +11,7 @@ Ce que j’ai fait :
 -retopology low poly de l’arbre 
 -retopology low poly des 5 fleurs
 -retopology low poly des 5 espèces hermaphrodites
+-UV + Baking de l'arbre
 -UV + Baking des 5 fleurs
 -UV + Baking des 5 espèces hermaphrodites
 -sélection du palette
@@ -19,8 +20,6 @@ Ce que j’ai fait :
 -test de capacitive sensors peu concluant 
 
 Ce qu’il me reste à faire :
--UV + Baking de l'arbre
--animation du poisson clown 
 -composition finale unity 
 -code unity (apparition brume, changement shader, changement composition) 
 -code arduino avec les 9 capacitives sensors (4 pour la caméra et 5 autres pour des changements sur unity -vitesse poissons/shaders/changement composition-) 
