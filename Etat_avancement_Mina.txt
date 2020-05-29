@@ -19,10 +19,11 @@ Ce que j’ai fait :
 -shader huitre provisoire 
 -test de capacitive sensors peu concluant 
 -code unity
+-code arduino 6/9 capacitive sensors
 
 Ce qu’il me reste à faire :
 -composition finale unity
--code arduino avec les 9 capacitives sensors (4 pour la caméra et 5 autres pour des changements sur unity -vitesse poissons/shaders/changement composition-) 
+-code arduino 3/9 capacitive sensors 
 -maquette 
 -mise en place des capacitive sensors 
 -finitions
