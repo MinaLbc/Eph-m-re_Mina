@@ -18,10 +18,10 @@ Ce que j’ai fait :
 -test de différents shaders à appliquer sur les fleurs/espèces 
 -shader huitre provisoire 
 -test de capacitive sensors peu concluant 
+-code unity
 
 Ce qu’il me reste à faire :
--composition finale unity 
--code unity (apparition brume, changement shader, changement composition) 
+-composition finale unity
 -code arduino avec les 9 capacitives sensors (4 pour la caméra et 5 autres pour des changements sur unity -vitesse poissons/shaders/changement composition-) 
 -maquette 
 -mise en place des capacitive sensors 
