@@ -8,22 +8,28 @@ Ce que j’ai fait :
 -modélisation high poly de l’arbre 
 -modélisation high poly des 5 fleurs 
 -modélisaion high poly des 5 espèces hermaphrodites 
--retopology low poly de la fleur de citronnier 
+-retopology low poly de l’arbre 
+-retopology low poly des 5 fleurs
+-retopology low poly des 5 espèces hermaphrodites
+-UV + Baking de l'arbre
+-UV + Baking des 5 fleurs
+-UV + Baking des 5 espèces hermaphrodites
+-sélection du palette
 -test de différents shaders à appliquer sur les fleurs/espèces 
 -shader huitre provisoire 
 -test de capacitive sensors peu concluant 
+-code unity
+-code arduino 6/9 capacitive sensors
 
-Ce qu’il me reste à faire : 
--sélection du palette 
--retopology low poly de l’arbre 
--retopology low poly des 4 autres fleurs 
--retopology low poly 5 espèces hermaphrodites 
--animation du poisson clown -composition finale unity 
--code unity (apparition brume, changement shader, changement composition) 
--code arduino avec les 9 capacitives sensors (4 pour la caméra et 5 autres pour des changements sur unity -vitesse poissons/shaders/changement composition-) 
+Ce qu’il me reste à faire :
+-composition finale unity
+-code arduino 3/9 capacitive sensors 
 -maquette 
 -mise en place des capacitive sensors 
 -finitions
 
+
+CALENDRIER
+https://trello.com/invite/b/W7d7vny5/6affda1342ab5cf454a2f7430a81333e/quadri-2
 
 Mina Leblanc
