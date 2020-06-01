@@ -19,12 +19,11 @@ Ce que j’ai fait :
 -shader huitre provisoire 
 -test de capacitive sensors peu concluant 
 -code unity
--code arduino 6/9 capacitive sensors
+-code arduino
 
 Ce qu’il me reste à faire :
 -composition finale unity
--code arduino 3/9 capacitive sensors 
--maquette 
+-maquette controller
 -mise en place des capacitive sensors 
 -finitions
 
