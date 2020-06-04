@@ -22,6 +22,7 @@ Ce que j’ai fait :
 -code arduino
 
 Ce qu’il me reste à faire : 
+-composition scène unity
 -maquette 
 -mise en place des capacitive sensors 
 -finitions
