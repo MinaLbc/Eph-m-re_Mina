@@ -19,10 +19,9 @@ Ce que j’ai fait :
 -test de capacitive sensors peu concluant
 -sélection du palette 
 -code unity 
--code arduino (6/9 capacitive sensors)
+-code arduino
 
 Ce qu’il me reste à faire : 
--code arduino (3/9 capacitive sensors)
 -maquette 
 -mise en place des capacitive sensors 
 -finitions
