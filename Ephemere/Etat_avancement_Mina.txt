@@ -20,11 +20,12 @@ Ce que j’ai fait :
 -sélection du palette 
 -code unity 
 -code arduino
-
-Ce qu’il me reste à faire : 
 -composition scène unity
--maquette 
--mise en place des capacitive sensors 
+
+
+Ce qu’il me reste à faire :
+-maquette
+-mise en place des capacitive sensors
 -finitions
 
 
